@@ -4,10 +4,7 @@ Parker’s Tale
 High-Level Project Summary
 “Parker’s Tale” is a mobile application designed to educate youth about astronomy through the discoveries of Parker’s Solar Probe. The app uses a combination of teaching methods, including video animation, voiceover, text script, and quizzes, to make learning interactive and enjoyable. This approach aims to ignite a passion for science in young minds by providing content from trusted sources and reviewed papers.
 
-Detailed Project Description
-Project Overview
-“Parker’s Tale” is a tutoring application that allows young users to explore the sun and space missions from the comfort of their homes. The app employs three main teaching methods:
-
+The application allows young users to explore the sun and space missions from the comfort of their homes. The app employs three main teaching methods:
 Animated Videos: These provide visual engagement and highlight key points.
 Flashcards: These summarize the main points of the narrated stories, making reading less daunting.
 Quizzes: Simple true/false quizzes follow each story to reinforce learning without overwhelming the user.
